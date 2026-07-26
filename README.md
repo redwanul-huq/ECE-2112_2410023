@@ -33,7 +33,6 @@ _**Heaven’s Light is Our Guide**_
 ## Submitted by:
 
 ### **Redwanul Huq Tamim**
-### [Codeforces](https://codeforces.com/profile/RedwanulHuqTamim)
 #### Roll No: 2410023
 #### Registration No: 1076
 #### Department of Electrical and Computer Engineering
@@ -52,8 +51,8 @@ _**Heaven’s Light is Our Guide**_
 
 
 
-| Lab No. | Title | Link | codeforce |
-| :---: | :---: | :---: | :---: |
+| Lab No. | Title | Link | 
+| :---: | :---: | :---: | 
 | 01 | Basic Logic gates| [Lab_01](https://github.com/redwanul-huq/ECE-2112_2410023/blob/main/DT%20Lab%2001.pdf)|
 
 

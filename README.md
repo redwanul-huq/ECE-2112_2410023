@@ -54,5 +54,6 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Title | Link | 
 | :---: | :---: | :---: | 
 | 01 | Basic Logic gates| [Lab_01](https://github.com/redwanul-huq/ECE-2112_2410023/blob/main/DT%20Lab%2001.pdf)|
+| 01 | K Map| [Lab_01](http://github.com/redwanul-huq/ECE-2112_2410023/blob/main/DT%20Lab%202.pdf)|
 
 
